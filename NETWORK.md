@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Compute Optimizer
 
-**ai-compute-optimizer** is part of the Zion Tech Group app network (630+ apps).
+GPU/TPU compute optimization and cost reduction for ML workloads.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Cost, FinOps & Cloud](https://github.com/Zion-support/zion-network/blob/main/network/cost-finops-cloud.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
+- Related: [ai-cloud-optimizer](https://github.com/Zion-support/ai-cloud-optimizer) · [zion-ai-finops-optimizer](https://github.com/Zion-support/zion-ai-finops-optimizer) · [zion-ai-model-cost-simulator](https://github.com/Zion-support/zion-ai-model-cost-simulator) · [ai-ml-ops-platform](https://github.com/Zion-support/ai-ml-ops-platform)
 
-## Related apps
-- [ai-cloud-optimizer](https://github.com/Zion-support/ai-cloud-optimizer) — Cloud cost optimization
-- [ai-cluster-manager](https://github.com/Zion-support/ai-cluster-manager) — Kubernetes cluster management
-- [ai-hyperparameter-tuner](https://github.com/Zion-support/ai-hyperparameter-tuner) — Hyperparameter optimization
-- [ai-finops-suite](https://github.com/Zion-support/ai-finops-suite) — Optimize cloud and AI costs
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
